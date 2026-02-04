@@ -34,12 +34,5 @@ To build a Linear Regression model to predict house prices using the California 
 ## Results
 The Linear Regression model was able to predict house prices with reasonable accuracy. The scatter plot shows a positive correlation between actual and predicted values.
 
-## Interview Questions Covered
-- Use of Linear Regression
-- Importance of RMSE
-- Train-Test split purpose
-- Meaning of coefficients
-- Underfitting concept
-
 ## Author
 Asim
