@@ -1,5 +1,5 @@
 # Task-6
-# Task 6: Linear Regression – House Price Prediction
+# Linear Regression – House Price Prediction
 
 ## Objective
 To build a Linear Regression model to predict house prices using the California Housing dataset and evaluate its performance.
